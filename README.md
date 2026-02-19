@@ -353,7 +353,7 @@ Expandable to production-level SaaS
 
 # About Me:
 
-Name  Chidatma Patel
+Chidatma Patel
 <br>
 LinkedIn: www.linkedin.com/in/chidatmapatel2007
 <br>
